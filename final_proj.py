@@ -357,8 +357,8 @@ elif answer5 == "D" or answer5 == "d":
 correct = True
 incorrect = False
 offset = 0
-turtle.register_shape('/home/student/siwarkhateb20_final-proj/meet2018y1final-proj/ezgif-4-1105f2a5f5 (1).gif')
-bottle.shape("/home/student/siwarkhateb20_final-proj/meet2018y1final-proj/ezgif-4-1105f2a5f5 (1).gif")
+turtle.register_shape('ezgif-4-1105f2a5f5 (1).gif')
+bottle.shape("ezgif-4-1105f2a5f5 (1).gif")
 for i in range(bottles):
     new_bottle = turtle.clone()
     bottle.speed(1)
